@@ -1,9 +1,9 @@
 # Formation java Cap _ Semaine 1
 ## Partie 1: Gestion de projet
 ### Installation
-[Eclipse](http://mirror.ufs.ac.za/eclipse/technology/epp/downloads/release/oxygen/3a/eclipse-jee-oxygen-3a-win32-x86_64.zip )
+[Eclipse](http://mirror.ufs.ac.za/eclipse/technology/epp/downloads/release/oxygen/3a/eclipse-jee-oxygen-3a-win32-x86_64.zip)
 [java8 JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-[Maven] (https://maven.apache.org/download.cgi)
+[Maven](https://maven.apache.org/download.cgi)
 1. Ajouter pathofmavenfile/bin dans variable d'envirement 
 2. Tester dans CMD
 
