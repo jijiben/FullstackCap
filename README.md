@@ -1,4 +1,4 @@
-# Formation java Capgemini _ Semaine 1
+# Formation java Cap _ Semaine 1
 ## Partie 1: Gestion de projet
 ### Installation
 Eclipse/ java8 / Maven
