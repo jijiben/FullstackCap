@@ -1,6 +1,6 @@
 # Formation java Capgemini _ Semaine 1
 ## Partie 1: Gestion de projet
-### Instalation
+### Installation
 Eclipse/ java8 / Maven
 
 Commande pour commencer le projet et recuperer les dependances :
@@ -11,7 +11,7 @@ clean install => clean/ build /test unitaire
 1. SVN /MVN; framework pour gestion de projet 
 2. git 
 
- Trank  : suivis version (cest comme devop, ma branche mere; la version quelle contient est la version de depart cad ce qui est ce qui est mis en prod( version prise des Tags et puis renommer )
+ Trunk  : suivis version (cest comme devop, ma branche mere; la version quelle contient est la version de depart cad ce qui est ce qui est mis en prod( version prise des Tags et puis renommer )
 
  0.0.1_sapshot( Pemiere version; creation)=> Release (pour la livraison, Ex: 0.0.1 ) / Tag 0.0.1 (la version stable de celle qui etait en cours)
  ### Integration continue 
