@@ -1,6 +1,6 @@
 # Formation java Capgemini _ Semaine 1
 ## Partie 1: Gestion de projet
-### Instalation
+### Installation
 Eclipse/ java8 / Maven
 
 Commande pour commencer le projet et recuperer les dependances :
