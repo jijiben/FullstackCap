@@ -1,14 +1,22 @@
 # Formation java Cap _ Semaine 1
 ## Partie 1: Gestion de projet
 ### Installation
-Eclipse/ java8 / Maven
+[Eclipse](http://mirror.ufs.ac.za/eclipse/technology/epp/downloads/release/oxygen/3a/eclipse-jee-oxygen-3a-win32-x86_64.zip )
+[java8 JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+[Maven] (https://maven.apache.org/download.cgi)
+1. Ajouter pathofmavenfile/bin dans variable d'envirement 
+2. Tester dans CMD
+
+```
+mvn -version
+```
 
 Commande pour commencer le projet et recuperer les dependances :
 ```
 clean install => clean/ build /test unitaire 
 ```
 ### Outils de gestion projet :
-1. SVN /MVN; framework pour gestion de projet 
+1. SVN; Gestion des branches  /MVN; framework pour gestion de projet 
 2. git 
 
  Trunk  : suivis version (cest comme devop, ma branche mere; la version quelle contient est la version de depart cad ce qui est ce qui est mis en prod( version prise des Tags et puis renommer )
