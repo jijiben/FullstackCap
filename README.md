@@ -18,6 +18,8 @@ clean install => clean/ build /test unitaire
  Assurer que les modifs ne prodisent pas de regression sur l'appli/ Tester les modules
  ### Qualité du code: Utilisation de Sonar
 Il faut pas avoir des violation critique sinon refonte du projet.
+ ### Automatiser le deploiment 
+ [jenkins plugin] (https://plugins.jenkins.io/deploy)
  ### Must read
  1.  [Jenkins](https://www.quora.com/What-is-Jenkins-When-and-why-is-it-used) // Similar of Rollbar
  2.  [web service appelé MAS](https://www.quora.com/What-are-web-services)
@@ -31,7 +33,7 @@ Il faut pas avoir des violation critique sinon refonte du projet.
 #### Note/ Best practice:
 * Il faut ecrire les commit; aider a savoir les incident
 * Un checkout c'est comme un clone sur SVN
-* Java doc(== doc string)  et Commentaires consituent 45% du total du code
+* Java doc(== doc string)  et Commentaires; consituent 45% du total du code
 * jar files: The .jar files contain libraries, resources and accessories files like property files.
 * war files: The war file contains the web application that can be deployed on any servlet/jsp container. The .war file contains jsp, html, javascript and other files necessary for the development of web applications
 
